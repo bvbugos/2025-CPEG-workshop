@@ -1,4 +1,4 @@
-# Palaeoverse Workshop Template
+# Palaeoverse Workshop Template 7-27-2025
 
 ## Purpose
 
