@@ -1,0 +1,11 @@
+---
+CPEG_Workshop
+Beatrice Bugos 
+CPEG and CPB conference 2025
+workshop on building open science, workshop.palaeoverse.org 
+---
+
+```{r}
+
+
+```
